@@ -1,8 +1,8 @@
-<h1><center>Machine Learning</center></h1>
+<h1><centre>Machine Learning</centre></h1>
 
 #### A Statistical Algorithm learns exponentially from data & predict the outcome
 
-<h2><center>Machine Learning Algorithms</center></h2>
+<h2><centre>Machine Learning Algorithms</centre></h2>
 
 ## Supervised Learning
 * A Statistical model trained on a predictor & responses. 
